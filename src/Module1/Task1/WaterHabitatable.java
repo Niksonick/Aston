@@ -1,6 +1,6 @@
 package Module1.Task1;
 
-public interface WaterHabitat {
+public interface WaterHabitatable {
 
     void livesInWater();
 }

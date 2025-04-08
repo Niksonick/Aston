@@ -1,6 +1,6 @@
 package Module1.Task1;
 
-public interface Spine {
+public interface Spinable {
 
     void hasSpin();
 }
